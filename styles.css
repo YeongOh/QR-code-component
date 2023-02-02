@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-size: 1.6rem;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: fit-content;
+  width: 35rem;
+  padding: 1.8rem;
+  border-radius: 1.8rem;
+}
+
+.image {
+  border-radius: 1rem;
+  width: 100%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.4rem;
+  margin: 1.8rem 0;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  text-align: center;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  margin-bottom: 2.1rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* 
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 15px
+
+### Font
+
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 700 */
