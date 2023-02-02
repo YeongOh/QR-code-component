@@ -9,11 +9,9 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+## Overview - [Live Demo](https://yeongoh.github.io/QR-code-component/)
 
 My first challenge at https://www.frontendmentor.io
-
-[Live Demo](https://yeongoh.github.io/QR-code-component/)
 
 ### Screenshot
 
